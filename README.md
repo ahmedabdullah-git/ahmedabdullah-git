@@ -90,14 +90,19 @@ Whether it's an **AI-powered chatbot**, an **autonomous AI agent**, a **RAG pipe
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedabdullah-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Ahmed Abdullah GitHub Stats — Full Stack AI Engineer" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdullah-git&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Ahmed Abdullah Most Used Languages — Python, TypeScript, JavaScript" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahmedabdullah-git&theme=tokyonight-duo&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahmedabdullah-git&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+[![Ahmed Abdullah GitHub Trophies — Full Stack AI Engineer Python React LangChain](https://github-profile-trophy.vercel.app/?username=ahmedabdullah-git&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ahmedabdullah-git)
+
+</div>
+
+<div align="center">
+
+[![Ahmed Abdullah GitHub Activity Graph — Full Stack AI Engineer LangChain RAG Python](https://github-readme-activity-graph.vercel.app/graph?username=ahmedabdullah-git&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ahmedabdullah-git)
 
 </div>
 
